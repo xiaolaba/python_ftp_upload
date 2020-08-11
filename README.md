@@ -1,5 +1,5 @@
 # python_ftp_upload
-pyhton 3.7.3, ftp upload  
+pyhton 3.7.3, ftp upload, win10 tested.
 
 
 ### drag_ftp_upload.py  
